@@ -11596,13 +11596,22 @@
         "excerpt": "Peter Harckham State Senate, District 40"
       },
       "withdrawn": false,
-      "outcome": "pending",
+      "outcome": "won",
       "result_source": {
         "url": "https://ballotpedia.org/New_York_State_Senate_District_40",
-        "excerpt": "Incumbent Peter Harckham (D / Working Families Party) and Sergio Esposito (R / Conservative Party) ran in the general election for New York State Senate District 40 on November 3, 2026."
+        "excerpt": "Incumbent Peter Harckham (D / Working Families Party) defeated Sergio Esposito (R / Conservative Party) in the general election for New York State Senate District 40 on November 3, 2026."
       },
-      "current": null,
-      "notes": "Row in the saved copy of workingfamilies.org/candidates/ (research_notes/national/wfp-2026-candidates.tsv), \"Our 2026 Candidates\", New York. The list is undated, so stage is general per brief."
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-01",
+        "term_end": "2028-12-31",
+        "service_source": {
+          "url": "https://data.openstates.org/people/current/ny.csv",
+          "excerpt": "Pete Harckham"
+        },
+        "contact_url": "https://www.nysenate.gov/senators/pete-harckham"
+      },
+      "notes": "Row in the saved copy of workingfamilies.org/candidates/ (research_notes/national/wfp-2026-candidates.tsv), \"Our 2026 Candidates\", New York. The list is undated, so stage is general per brief. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Public Officers Law sec. 4 and Const. art. III sec. 2, as cited on other 2026 entries in this file. contact_url is the incumbent's current official page."
     },
     {
       "person": "Lisa Kaul",
@@ -16530,6 +16539,7 @@
     "RFS 2026 cards for Zahava Durchin (AD41), Josh Arnon (AD74), Mahtab Khan (AD24) and Ryder Kessler (AD66), and the RFS 2022 Michelle Hinchey card (listed as Senate 48; Ballotpedia SD48 2022 does not show her), have no matching result sentence on Ballotpedia, so outcome is unknown.",
     "Ballotpedia general-election results dated 2026-11-03 are unofficial and uncalled races are pending (15 entries). Special-election winners: term_start left null because Public Officers Law sec. 4 does not set a start for vacancy terms.",
     "The 2025-12-23 NYC-DSA release says Aber Kawas runs in Assembly District 34, conflicting with Senate District 12 on later NYC-DSA pages; SD-12 used.",
-    "Sunrise NYC Comptroller candidate and all congressional, municipal, and local endorsements are out of scope and skipped."
+    "Sunrise NYC Comptroller candidate and all congressional, municipal, and local endorsements are out of scope and skipped.",
+    "2026-11-16: general results for 1 sitting officeholders with a 2026 endorsement were taken from Ballotpedia district pages (research_notes/national/results-2026-ballotpedia.tsv), because the official sources named above were still not citable. They are unofficial until certified. Other 2026 endorsees were not rechecked and keep their earlier outcome."
   ]
 }

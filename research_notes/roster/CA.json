@@ -745,10 +745,22 @@
         "excerpt": "Sade Elhawary State Assembly, District 57"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "WFP 2026 candidates list (saved copy research_notes/national/wfp-2026-candidates.tsv, fetched 2026-11-08); the list is undated, so stage is general. Office text copied as listed (verbatim, including WFP's typos). Result: Advanced from the 2026 primary, district 57: Sade Elhawary (DEM) 40,160 votes, 85.7%; Constance Jewel Menzies (REP) 6,701 votes, 14.3%. 2026 general (Nov 3, 2026) result not recorded: the Secretary of State results site (electionresults.sos.ca.gov) blocks automated access (Incapsula) and the Statement of Vote for the general is not published yet."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/California_State_Assembly_District_57",
+        "excerpt": "Incumbent Sade Elhawary (D) defeated Constance Menzies (R) in the general election for California State Assembly District 57 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2026-12-07",
+        "term_end": "2028-12-03",
+        "service_source": {
+          "url": "https://www.legalfina.com/en/laws/ca/california_constitution/legislative",
+          "excerpt": "The terms of a Senator or a Member of the Assembly shall commence on the first Monday in December next following her or his election."
+        },
+        "contact_url": "https://a57.asmdc.org/"
+      },
+      "notes": "WFP 2026 candidates list (saved copy research_notes/national/wfp-2026-candidates.tsv, fetched 2026-11-08); the list is undated, so stage is general. Office text copied as listed (verbatim, including WFP's typos). Result: Advanced from the 2026 primary, district 57: Sade Elhawary (DEM) 40,160 votes, 85.7%; Constance Jewel Menzies (REP) 6,701 votes, 14.3%. 2026 general (Nov 3, 2026) result not recorded: the Secretary of State results site (electionresults.sos.ca.gov) blocks automated access (Incapsula) and the Statement of Vote for the general is not published yet. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Cal. Const. art. IV, sec. 2(a), as cited on this person's earlier entries; term_end is the day before the first Monday in December that opens the next term. contact_url is the incumbent's current official page."
     },
     {
       "person": "Tina McKinnor",
@@ -766,10 +778,22 @@
         "excerpt": "Tina McKinnor State Assembly, District 61"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "WFP 2026 candidates list (saved copy research_notes/national/wfp-2026-candidates.tsv, fetched 2026-11-08); the list is undated, so stage is general. Office text copied as listed (verbatim, including WFP's typos). Result: Advanced from the 2026 primary, district 61: Tina Simone McKinnor (DEM) 79,047 votes, 98.6%; Brian Lockwood (REP (W/I)) 1,104 votes, 1.4%. 2026 general (Nov 3, 2026) result not recorded: the Secretary of State results site (electionresults.sos.ca.gov) blocks automated access (Incapsula) and the Statement of Vote for the general is not published yet."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/California_State_Assembly_District_61",
+        "excerpt": "Incumbent Tina McKinnor (D) defeated Brian Lockwood (R) in the general election for California State Assembly District 61 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2026-12-07",
+        "term_end": "2028-12-03",
+        "service_source": {
+          "url": "https://www.legalfina.com/en/laws/ca/california_constitution/legislative",
+          "excerpt": "The terms of a Senator or a Member of the Assembly shall commence on the first Monday in December next following her or his election."
+        },
+        "contact_url": "https://a61.asmdc.org/"
+      },
+      "notes": "WFP 2026 candidates list (saved copy research_notes/national/wfp-2026-candidates.tsv, fetched 2026-11-08); the list is undated, so stage is general. Office text copied as listed (verbatim, including WFP's typos). Result: Advanced from the 2026 primary, district 61: Tina Simone McKinnor (DEM) 79,047 votes, 98.6%; Brian Lockwood (REP (W/I)) 1,104 votes, 1.4%. 2026 general (Nov 3, 2026) result not recorded: the Secretary of State results site (electionresults.sos.ca.gov) blocks automated access (Incapsula) and the Statement of Vote for the general is not published yet. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Cal. Const. art. IV, sec. 2(a), as cited on this person's earlier entries; term_end is the day before the first Monday in December that opens the next term. contact_url is the incumbent's current official page."
     },
     {
       "person": "Caroline Menjivar",
@@ -787,10 +811,22 @@
         "excerpt": "Caroline Menjivar State Senate, District 20"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "WFP 2026 candidates list (saved copy research_notes/national/wfp-2026-candidates.tsv, fetched 2026-11-08); the list is undated, so stage is general. Office text copied as listed (verbatim, including WFP's typos). Result: Advanced from the 2026 primary, district 20: Caroline Menjivar (DEM) 97,191 votes, 62.0%; Tony Rodriguez (REP) 43,622 votes, 27.8%; Roberto David LaCarra (DEM) 15,832 votes, 10.1%. 2026 general (Nov 3, 2026) result not recorded: the Secretary of State results site (electionresults.sos.ca.gov) blocks automated access (Incapsula) and the Statement of Vote for the general is not published yet."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/California_State_Senate_District_20",
+        "excerpt": "Incumbent Caroline Menjivar (D) defeated Tony Rodriguez (R) in the general election for California State Senate District 20 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2026-12-07",
+        "term_end": "2030-12-01",
+        "service_source": {
+          "url": "https://www.legalfina.com/en/laws/ca/california_constitution/legislative",
+          "excerpt": "The terms of a Senator or a Member of the Assembly shall commence on the first Monday in December next following her or his election."
+        },
+        "contact_url": "https://sd20.senate.ca.gov/"
+      },
+      "notes": "WFP 2026 candidates list (saved copy research_notes/national/wfp-2026-candidates.tsv, fetched 2026-11-08); the list is undated, so stage is general. Office text copied as listed (verbatim, including WFP's typos). Result: Advanced from the 2026 primary, district 20: Caroline Menjivar (DEM) 97,191 votes, 62.0%; Tony Rodriguez (REP) 43,622 votes, 27.8%; Roberto David LaCarra (DEM) 15,832 votes, 10.1%. 2026 general (Nov 3, 2026) result not recorded: the Secretary of State results site (electionresults.sos.ca.gov) blocks automated access (Incapsula) and the Statement of Vote for the general is not published yet. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Cal. Const. art. IV, sec. 2(a), as cited on this person's earlier entries; term_end is the day before the first Monday in December that opens the next term. contact_url is the incumbent's current official page."
     },
     {
       "person": "John Erickson",
@@ -850,10 +886,22 @@
         "excerpt": "Lola Smallwood-Cuevas State Senate, District 28"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "WFP 2026 candidates list (saved copy research_notes/national/wfp-2026-candidates.tsv, fetched 2026-11-08); the list is undated, so stage is general. Office text copied as listed (verbatim, including WFP's typos). Result: Advanced from the 2026 primary, district 28: Lola Smallwood-Cuevas (DEM) 151,178 votes, 77.5%; Joe Lisuzzo (REP) 31,606 votes, 16.2%; Daphne D. Bradford (NPP) 12,265 votes, 6.3%. 2026 general (Nov 3, 2026) result not recorded: the Secretary of State results site (electionresults.sos.ca.gov) blocks automated access (Incapsula) and the Statement of Vote for the general is not published yet."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/California_State_Senate_District_28",
+        "excerpt": "Incumbent Lola Smallwood-Cuevas (D) defeated Joe Lisuzzo (R) in the general election for California State Senate District 28 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2026-12-07",
+        "term_end": "2030-12-01",
+        "service_source": {
+          "url": "https://www.legalfina.com/en/laws/ca/california_constitution/legislative",
+          "excerpt": "The terms of a Senator or a Member of the Assembly shall commence on the first Monday in December next following her or his election."
+        },
+        "contact_url": "https://sd28.senate.ca.gov/"
+      },
+      "notes": "WFP 2026 candidates list (saved copy research_notes/national/wfp-2026-candidates.tsv, fetched 2026-11-08); the list is undated, so stage is general. Office text copied as listed (verbatim, including WFP's typos). Result: Advanced from the 2026 primary, district 28: Lola Smallwood-Cuevas (DEM) 151,178 votes, 77.5%; Joe Lisuzzo (REP) 31,606 votes, 16.2%; Daphne D. Bradford (NPP) 12,265 votes, 6.3%. 2026 general (Nov 3, 2026) result not recorded: the Secretary of State results site (electionresults.sos.ca.gov) blocks automated access (Incapsula) and the Statement of Vote for the general is not published yet. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Cal. Const. art. IV, sec. 2(a), as cited on this person's earlier entries; term_end is the day before the first Monday in December that opens the next term. contact_url is the incumbent's current official page."
     },
     {
       "person": "Jessie Lopez",
@@ -1959,6 +2007,7 @@
     "WFP's 2022 California Squad page lists Tina McKinnor for the AD 62 special; her regular 2022 AD 61 election is not entered as a separate endorsement. The special-term start date was not sourced (term_start null).",
     "Sunrise Movement OC is the only Sunrise source with explicit 'ENDORSED' wording; its guide is undated. Sunrise guides use 'Recommend' for others, which are excluded.",
     "No special elections since 2022 other than AD 62 were checked against endorsements; the August 2026 CA-14 special and legislative specials listed at 270toWin were not examined.",
-    "Term_end values are computed from the constitution (first Monday in December), not read from a roster. The constitution text is cited from legalfina.com because leginfo.legislature.ca.gov returns 403 to automated requests."
+    "Term_end values are computed from the constitution (first Monday in December), not read from a roster. The constitution text is cited from legalfina.com because leginfo.legislature.ca.gov returns 403 to automated requests.",
+    "2026-11-16: general results for 4 sitting officeholders with a 2026 endorsement were taken from Ballotpedia district pages (research_notes/national/results-2026-ballotpedia.tsv), because the official sources named above were still not citable. They are unofficial until certified. Other 2026 endorsees were not rechecked and keep their earlier outcome."
   ]
 }

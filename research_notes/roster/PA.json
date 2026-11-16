@@ -1027,10 +1027,22 @@
         "excerpt": "Lindsay Powell State House, District 21"
       },
       "withdrawn": false,
-      "outcome": "unknown",
-      "result_source": null,
-      "current": null,
-      "notes": "On WFP's 'Our 2026 Candidates' list (saved full list, research_notes/national/wfp-2026-candidates.tsv). The list is undated, so stage is general by rule. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Pennsylvania_House_of_Representatives_District_21",
+        "excerpt": "Incumbent Lindsay Powell (D) won election in the general election for Pennsylvania House of Representatives District 21 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2026-12-01",
+        "term_end": "2028-11-30",
+        "service_source": {
+          "url": "https://www.paconstitution.org/texts-of-the-constitution/1874-2/",
+          "excerpt": "Their term of service shall begin on the first day of December next after their election."
+        },
+        "contact_url": "https://www.palegis.us/house/members/bio/2016/rep-powell"
+      },
+      "notes": "On WFP's 'Our 2026 Candidates' list (saved full list, research_notes/national/wfp-2026-candidates.tsv). The list is undated, so stage is general by rule. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Pa. Const. art. II sec. 2 and 3 as cited on this person's earlier entries; House terms are two years and Senate terms four. contact_url is the incumbent's current official page."
     },
     {
       "person": "Ce-Ce Gerlach",
@@ -1195,10 +1207,22 @@
         "excerpt": "Izzy Smith Wade-El State House, District 49"
       },
       "withdrawn": false,
-      "outcome": "unknown",
-      "result_source": null,
-      "current": null,
-      "notes": "On WFP's 'Our 2026 Candidates' list (saved full list, research_notes/national/wfp-2026-candidates.tsv). The list is undated, so stage is general by rule. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Pennsylvania_House_of_Representatives_District_49",
+        "excerpt": "Incumbent Ismail Smith-Wade-El (D) defeated Vanessa Acosta (R) in the general election for Pennsylvania House of Representatives District 49 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2026-12-01",
+        "term_end": "2028-11-30",
+        "service_source": {
+          "url": "https://www.paconstitution.org/texts-of-the-constitution/1874-2/",
+          "excerpt": "Their term of service shall begin on the first day of December next after their election."
+        },
+        "contact_url": "https://www.palegis.us/house/members/bio/1948/rep-smith-wade-el"
+      },
+      "notes": "On WFP's 'Our 2026 Candidates' list (saved full list, research_notes/national/wfp-2026-candidates.tsv). The list is undated, so stage is general by rule. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Pa. Const. art. II sec. 2 and 3 as cited on this person's earlier entries; House terms are two years and Senate terms four. contact_url is the incumbent's current official page."
     },
     {
       "person": "Caleb McCoy",
@@ -1645,10 +1669,22 @@
         "excerpt": "Rick Krajewski State House, District 188"
       },
       "withdrawn": false,
-      "outcome": "unknown",
-      "result_source": null,
-      "current": null,
-      "notes": "On WFP's 'Our 2026 Candidates' list (saved full list, research_notes/national/wfp-2026-candidates.tsv). The list is undated, so stage is general by rule. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Pennsylvania_House_of_Representatives_District_188",
+        "excerpt": "Incumbent Rick Krajewski (D) won election in the general election for Pennsylvania House of Representatives District 188 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2026-12-01",
+        "term_end": "2028-11-30",
+        "service_source": {
+          "url": "https://www.paconstitution.org/texts-of-the-constitution/1874-2/",
+          "excerpt": "Their term of service shall begin on the first day of December next after their election."
+        },
+        "contact_url": "https://www.palegis.us/house/members/bio/1918/rep-krajewski"
+      },
+      "notes": "On WFP's 'Our 2026 Candidates' list (saved full list, research_notes/national/wfp-2026-candidates.tsv). The list is undated, so stage is general by rule. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Pa. Const. art. II sec. 2 and 3 as cited on this person's earlier entries; House terms are two years and Senate terms four. contact_url is the incumbent's current official page."
     },
     {
       "person": "Roni Green",
@@ -1666,10 +1702,22 @@
         "excerpt": "Roni Green State House, District 190"
       },
       "withdrawn": false,
-      "outcome": "unknown",
-      "result_source": null,
-      "current": null,
-      "notes": "On WFP's 'Our 2026 Candidates' list (saved full list, research_notes/national/wfp-2026-candidates.tsv). The list is undated, so stage is general by rule. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Pennsylvania_House_of_Representatives_District_190",
+        "excerpt": "Roni Green (D) won election in the general election for Pennsylvania House of Representatives District 190 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2026-12-01",
+        "term_end": "2028-11-30",
+        "service_source": {
+          "url": "https://www.paconstitution.org/texts-of-the-constitution/1874-2/",
+          "excerpt": "Their term of service shall begin on the first day of December next after their election."
+        },
+        "contact_url": "https://www.palegis.us/house/members/bio/1874/rep-green"
+      },
+      "notes": "On WFP's 'Our 2026 Candidates' list (saved full list, research_notes/national/wfp-2026-candidates.tsv). The list is undated, so stage is general by rule. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Pa. Const. art. II sec. 2 and 3 as cited on this person's earlier entries; House terms are two years and Senate terms four. contact_url is the incumbent's current official page."
     },
     {
       "person": "Tarik Khan",
@@ -1687,10 +1735,22 @@
         "excerpt": "Tarik Khan State House, District 194"
       },
       "withdrawn": false,
-      "outcome": "unknown",
-      "result_source": null,
-      "current": null,
-      "notes": "On WFP's 'Our 2026 Candidates' list (saved full list, research_notes/national/wfp-2026-candidates.tsv). The list is undated, so stage is general by rule. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Pennsylvania_House_of_Representatives_District_194",
+        "excerpt": "Incumbent Tarik Khan (D) won election in the general election for Pennsylvania House of Representatives District 194 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2026-12-01",
+        "term_end": "2028-11-30",
+        "service_source": {
+          "url": "https://www.paconstitution.org/texts-of-the-constitution/1874-2/",
+          "excerpt": "Their term of service shall begin on the first day of December next after their election."
+        },
+        "contact_url": "https://www.palegis.us/house/members/bio/1983/rep-khan"
+      },
+      "notes": "On WFP's 'Our 2026 Candidates' list (saved full list, research_notes/national/wfp-2026-candidates.tsv). The list is undated, so stage is general by rule. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Pa. Const. art. II sec. 2 and 3 as cited on this person's earlier entries; House terms are two years and Senate terms four. contact_url is the incumbent's current official page."
     },
     {
       "person": "Sierra McNeil",
@@ -1771,10 +1831,22 @@
         "excerpt": "Andre Carroll State House, District 201"
       },
       "withdrawn": false,
-      "outcome": "unknown",
-      "result_source": null,
-      "current": null,
-      "notes": "On WFP's 'Our 2026 Candidates' list (saved full list, research_notes/national/wfp-2026-candidates.tsv). The list is undated, so stage is general by rule. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Pennsylvania_House_of_Representatives_District_201",
+        "excerpt": "Incumbent Andre Carroll (D) won election in the general election for Pennsylvania House of Representatives District 201 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2026-12-01",
+        "term_end": "2028-11-30",
+        "service_source": {
+          "url": "https://www.paconstitution.org/texts-of-the-constitution/1874-2/",
+          "excerpt": "Their term of service shall begin on the first day of December next after their election."
+        },
+        "contact_url": "https://www.palegis.us/house/members/bio/2019/rep-carroll"
+      },
+      "notes": "On WFP's 'Our 2026 Candidates' list (saved full list, research_notes/national/wfp-2026-candidates.tsv). The list is undated, so stage is general by rule. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Pa. Const. art. II sec. 2 and 3 as cited on this person's earlier entries; House terms are two years and Senate terms four. contact_url is the incumbent's current official page."
     },
     {
       "person": "Art Haywood",
@@ -1792,10 +1864,22 @@
         "excerpt": "Art Haywood State Senate, District 4"
       },
       "withdrawn": false,
-      "outcome": "unknown",
-      "result_source": null,
-      "current": null,
-      "notes": "On WFP's 'Our 2026 Candidates' list (saved full list, research_notes/national/wfp-2026-candidates.tsv). The list is undated, so stage is general by rule. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Pennsylvania_State_Senate_District_4",
+        "excerpt": "Incumbent Art Haywood (D) defeated Todd Johnson (R) in the general election for Pennsylvania State Senate District 4 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2026-12-01",
+        "term_end": "2030-11-30",
+        "service_source": {
+          "url": "https://www.paconstitution.org/texts-of-the-constitution/1874-2/",
+          "excerpt": "Their term of service shall begin on the first day of December next after their election."
+        },
+        "contact_url": "https://www.palegis.us/senate/members/bio/1689/sen-haywood"
+      },
+      "notes": "On WFP's 'Our 2026 Candidates' list (saved full list, research_notes/national/wfp-2026-candidates.tsv). The list is undated, so stage is general by rule. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Pa. Const. art. II sec. 2 and 3 as cited on this person's earlier entries; House terms are two years and Senate terms four. contact_url is the incumbent's current official page."
     },
     {
       "person": "Mark Pinsley",
@@ -1876,10 +1960,22 @@
         "excerpt": "Lindsey Williams State Senate, District 38"
       },
       "withdrawn": false,
-      "outcome": "unknown",
-      "result_source": null,
-      "current": null,
-      "notes": "On WFP's 'Our 2026 Candidates' list (saved full list, research_notes/national/wfp-2026-candidates.tsv). The list is undated, so stage is general by rule. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Pennsylvania_State_Senate_District_38",
+        "excerpt": "Incumbent Lindsey Williams (D) defeated Thomas West (R) in the general election for Pennsylvania State Senate District 38 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2026-12-01",
+        "term_end": "2030-11-30",
+        "service_source": {
+          "url": "https://www.paconstitution.org/texts-of-the-constitution/1874-2/",
+          "excerpt": "Their term of service shall begin on the first day of December next after their election."
+        },
+        "contact_url": "https://www.palegis.us/senate/members/bio/1803/sen-l-williams"
+      },
+      "notes": "On WFP's 'Our 2026 Candidates' list (saved full list, research_notes/national/wfp-2026-candidates.tsv). The list is undated, so stage is general by rule. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Pa. Const. art. II sec. 2 and 3 as cited on this person's earlier entries; House terms are two years and Senate terms four. contact_url is the incumbent's current official page."
     },
     {
       "person": "Katie Muth",
@@ -1897,10 +1993,22 @@
         "excerpt": "Katie Muth State Senate, District 44"
       },
       "withdrawn": false,
-      "outcome": "unknown",
-      "result_source": null,
-      "current": null,
-      "notes": "On WFP's 'Our 2026 Candidates' list (saved full list, research_notes/national/wfp-2026-candidates.tsv). The list is undated, so stage is general by rule. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Pennsylvania_State_Senate_District_44",
+        "excerpt": "Incumbent Katie Muth (D) defeated Melissa Dicranian (R) in the general election for Pennsylvania State Senate District 44 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2026-12-01",
+        "term_end": "2030-11-30",
+        "service_source": {
+          "url": "https://www.paconstitution.org/texts-of-the-constitution/1874-2/",
+          "excerpt": "Their term of service shall begin on the first day of December next after their election."
+        },
+        "contact_url": "https://www.palegis.us/senate/members/bio/1802/sen-muth"
+      },
+      "notes": "On WFP's 'Our 2026 Candidates' list (saved full list, research_notes/national/wfp-2026-candidates.tsv). The list is undated, so stage is general by rule. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Pa. Const. art. II sec. 2 and 3 as cited on this person's earlier entries; House terms are two years and Senate terms four. contact_url is the incumbent's current official page."
     },
     {
       "person": "Bruce Carper",
@@ -3355,10 +3463,22 @@
         "excerpt": "(HD-45) , and Ismail Smith-Wade-El (HD-49) — leaders committed to expanding"
       },
       "withdrawn": false,
-      "outcome": "unknown",
-      "result_source": null,
-      "current": null,
-      "notes": "Our Revolution post 'State Races in Pennsylvania' (category page shows 'Apr 11' without a year; the post also names 2026 congressional candidates Bob Brooks and Chris Rabb, so 2026 is taken from that context). Before the 2026-05-19 primary, so stage is primary. The post spells the names 'Ce Gerlach' and 'Liz Fiedler'. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Pennsylvania_House_of_Representatives_District_49",
+        "excerpt": "Incumbent Ismail Smith-Wade-El (D) defeated Vanessa Acosta (R) in the general election for Pennsylvania House of Representatives District 49 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2026-12-01",
+        "term_end": "2028-11-30",
+        "service_source": {
+          "url": "https://www.paconstitution.org/texts-of-the-constitution/1874-2/",
+          "excerpt": "Their term of service shall begin on the first day of December next after their election."
+        },
+        "contact_url": "https://www.palegis.us/house/members/bio/1948/rep-smith-wade-el"
+      },
+      "notes": "Our Revolution post 'State Races in Pennsylvania' (category page shows 'Apr 11' without a year; the post also names 2026 congressional candidates Bob Brooks and Chris Rabb, so 2026 is taken from that context). Before the 2026-05-19 primary, so stage is primary. The post spells the names 'Ce Gerlach' and 'Liz Fiedler'. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Pa. Const. art. II sec. 2 and 3 as cited on this person's earlier entries; House terms are two years and Senate terms four. contact_url is the incumbent's current official page."
     },
     {
       "person": "Malcolm Kenyatta",
@@ -3463,10 +3583,22 @@
         "excerpt": "state senate level, Lindsey Williams (SD-38) continues to be a powerful"
       },
       "withdrawn": false,
-      "outcome": "unknown",
-      "result_source": null,
-      "current": null,
-      "notes": "Our Revolution post 'State Races in Pennsylvania' (category page shows 'Apr 11' without a year; the post also names 2026 congressional candidates Bob Brooks and Chris Rabb, so 2026 is taken from that context). Before the 2026-05-19 primary, so stage is primary. The post spells the names 'Ce Gerlach' and 'Liz Fiedler'. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Pennsylvania_State_Senate_District_38",
+        "excerpt": "Incumbent Lindsey Williams (D) defeated Thomas West (R) in the general election for Pennsylvania State Senate District 38 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2026-12-01",
+        "term_end": "2030-11-30",
+        "service_source": {
+          "url": "https://www.paconstitution.org/texts-of-the-constitution/1874-2/",
+          "excerpt": "Their term of service shall begin on the first day of December next after their election."
+        },
+        "contact_url": "https://www.palegis.us/senate/members/bio/1803/sen-l-williams"
+      },
+      "notes": "Our Revolution post 'State Races in Pennsylvania' (category page shows 'Apr 11' without a year; the post also names 2026 congressional candidates Bob Brooks and Chris Rabb, so 2026 is taken from that context). Before the 2026-05-19 primary, so stage is primary. The post spells the names 'Ce Gerlach' and 'Liz Fiedler'. Ballotpedia district page for 2026 could not be fetched (bot challenge); result not found elsewhere. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Pa. Const. art. II sec. 2 and 3 as cited on this person's earlier entries; House terms are two years and Senate terms four. contact_url is the incumbent's current official page."
     },
     {
       "person": "Brad Chambers",
@@ -3939,6 +4071,7 @@
     "Out of scope and not entered: WFP and Reclaim endorsements of Malcolm Kenyatta for Auditor General (2024) and Chris Rabb and Bob Brooks for Congress (2026).",
     "Name and district oddities: the RFS 2022 card for Izzy Smith-Wade-El says District 50, but WFP and the 2022 results place him in District 49 (entered as 49). Kris Walski (RFS 2022, HD 18) won the Democratic primary unopposed but Laurie Smith is the Democratic nominee in the general; the reason is not on the page. Felecia Coffee (HD 163) and Ashley Gagne (HD 156), named in WFP's 2022 primary slate, do not appear on the 2022 primary results page; reason not established.",
     "Mid-term departures: none found among entries whose term is current, since every 2022 Senate winner and 2024 winner with a live term appears in the Open States roster. Terms are computed from Pa. Const. art. II sec. 2 and 3, not read from a roster; Wikipedia's 2022 and 2024 Senate pages show even-numbered districts on the 2022 ballot and odd-numbered on the 2024 ballot.",
-    "Several 2026 results are unknown or pending because the Ballotpedia pages had no called result or could not be fetched at the time; see each entry's notes."
+    "Several 2026 results are unknown or pending because the Ballotpedia pages had no called result or could not be fetched at the time; see each entry's notes.",
+    "2026-11-16: general results for 9 sitting officeholders with a 2026 endorsement were taken from Ballotpedia district pages (research_notes/national/results-2026-ballotpedia.tsv), because the official sources named above were still not citable. They are unofficial until certified. Other 2026 endorsees were not rechecked and keep their earlier outcome."
   ]
 }
