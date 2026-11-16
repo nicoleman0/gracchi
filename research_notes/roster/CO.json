@@ -1690,10 +1690,19 @@
         "excerpt": "Junie Joseph, House District 10 Gabriel"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Feb 2026 early endorsement (before the 2026-06-30 primary). Won/was unopposed in the 2026-06-30 Democratic primary (Junie Joseph 14,385; Colorado SOS 2026 primary results, https://www.coloradosos.gov/pubs/elections/Results/2026/2026PrimaryElectionStateResults.xlsx). General election was 2026-11-03; no certified result was available to cite on 2026-11-08, so outcome is pending."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Colorado_House_of_Representatives_District_10",
+        "excerpt": "Incumbent Junie Joseph (D) won election in the general election for Colorado House of Representatives District 10 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-11",
+        "term_end": null,
+        "service_source": null,
+        "contact_url": "https://leg.colorado.gov/legislators/junie-joseph"
+      },
+      "notes": "Feb 2026 early endorsement (before the 2026-06-30 primary). Won/was unopposed in the 2026-06-30 Democratic primary (Junie Joseph 14,385; Colorado SOS 2026 primary results, https://www.coloradosos.gov/pubs/elections/Results/2026/2026PrimaryElectionStateResults.xlsx). General election was 2026-11-03; no certified result was available to cite on 2026-11-08, so outcome is pending. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Colo. Const. art. V, sec. 7; the 2027 session convenes 2027-01-11 per HJR26-1031 (see gaps). term_end is null because the convening date that ends this term is not set. contact_url is the incumbent's current official page."
     },
     {
       "person": "Gabriel Cervantes",
@@ -1837,10 +1846,19 @@
         "excerpt": "Emily Sirota Colorado State Senate, District 32"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "On WFP's 2026 candidate list (undated; full list including rows hidden behind View More saved in research_notes/national/wfp-2026-candidates.tsv), so stage defaults to general. Won/was unopposed in the 2026-06-30 Democratic primary (Emily Sirota 25,701; Colorado SOS 2026 primary results, https://www.coloradosos.gov/pubs/elections/Results/2026/2026PrimaryElectionStateResults.xlsx). General election was 2026-11-03; no certified result was available to cite on 2026-11-08, so outcome is pending."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Colorado_State_Senate_District_32",
+        "excerpt": "Emily Sirota (D) defeated Sydnnia Wulff (R) in the general election for Colorado State Senate District 32 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-11",
+        "term_end": null,
+        "service_source": null,
+        "contact_url": "https://leg.colorado.gov/legislators/emily-sirota"
+      },
+      "notes": "On WFP's 2026 candidate list (undated; full list including rows hidden behind View More saved in research_notes/national/wfp-2026-candidates.tsv), so stage defaults to general. Won/was unopposed in the 2026-06-30 Democratic primary (Emily Sirota 25,701; Colorado SOS 2026 primary results, https://www.coloradosos.gov/pubs/elections/Results/2026/2026PrimaryElectionStateResults.xlsx). General election was 2026-11-03; no certified result was available to cite on 2026-11-08, so outcome is pending. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Colo. Const. art. V, sec. 7; the 2027 session convenes 2027-01-11 per HJR26-1031 (see gaps). term_end is null because the convening date that ends this term is not set. contact_url is the page for the seat held until this term starts; replace it once seated in the new chamber."
     },
     {
       "person": "Javier Mabrey",
@@ -1858,10 +1876,19 @@
         "excerpt": "Javier Mabrey Colorado State House, District 1"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "On WFP's 2026 candidate list (undated; full list including rows hidden behind View More saved in research_notes/national/wfp-2026-candidates.tsv), so stage defaults to general. Won/was unopposed in the 2026-06-30 Democratic primary (Javier Mabrey 10,908; Colorado SOS 2026 primary results, https://www.coloradosos.gov/pubs/elections/Results/2026/2026PrimaryElectionStateResults.xlsx). General election was 2026-11-03; no certified result was available to cite on 2026-11-08, so outcome is pending."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Colorado_House_of_Representatives_District_1",
+        "excerpt": "Incumbent Javier Mabrey (D) defeated Joseph Montoya (R) in the general election for Colorado House of Representatives District 1 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-11",
+        "term_end": null,
+        "service_source": null,
+        "contact_url": "https://leg.colorado.gov/legislators/javier-mabrey"
+      },
+      "notes": "On WFP's 2026 candidate list (undated; full list including rows hidden behind View More saved in research_notes/national/wfp-2026-candidates.tsv), so stage defaults to general. Won/was unopposed in the 2026-06-30 Democratic primary (Javier Mabrey 10,908; Colorado SOS 2026 primary results, https://www.coloradosos.gov/pubs/elections/Results/2026/2026PrimaryElectionStateResults.xlsx). General election was 2026-11-03; no certified result was available to cite on 2026-11-08, so outcome is pending. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Colo. Const. art. V, sec. 7; the 2027 session convenes 2027-01-11 per HJR26-1031 (see gaps). term_end is null because the convening date that ends this term is not set. contact_url is the incumbent's current official page."
     },
     {
       "person": "Scott Baldermann",
@@ -1942,10 +1969,19 @@
         "excerpt": "Tammy Story Colorado State House, District 25"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "On WFP's 2026 candidate list (undated; full list including rows hidden behind View More saved in research_notes/national/wfp-2026-candidates.tsv), so stage defaults to general. Won/was unopposed in the 2026-06-30 Democratic primary (Tammy Story 14,252; Colorado SOS 2026 primary results, https://www.coloradosos.gov/pubs/elections/Results/2026/2026PrimaryElectionStateResults.xlsx). General election was 2026-11-03; no certified result was available to cite on 2026-11-08, so outcome is pending."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Colorado_House_of_Representatives_District_25",
+        "excerpt": "Incumbent Tammy Story (D) defeated Mark Herzfeld (R) in the general election for Colorado House of Representatives District 25 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-11",
+        "term_end": null,
+        "service_source": null,
+        "contact_url": "https://leg.colorado.gov/legislators/tammy-story"
+      },
+      "notes": "On WFP's 2026 candidate list (undated; full list including rows hidden behind View More saved in research_notes/national/wfp-2026-candidates.tsv), so stage defaults to general. Won/was unopposed in the 2026-06-30 Democratic primary (Tammy Story 14,252; Colorado SOS 2026 primary results, https://www.coloradosos.gov/pubs/elections/Results/2026/2026PrimaryElectionStateResults.xlsx). General election was 2026-11-03; no certified result was available to cite on 2026-11-08, so outcome is pending. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Colo. Const. art. V, sec. 7; the 2027 session convenes 2027-01-11 per HJR26-1031 (see gaps). term_end is null because the convening date that ends this term is not set. contact_url is the incumbent's current official page."
     },
     {
       "person": "Chris VanDijk",
@@ -1984,10 +2020,19 @@
         "excerpt": "Jenny Willford Colorado State House, District 34"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "On WFP's 2026 candidate list (undated; full list including rows hidden behind View More saved in research_notes/national/wfp-2026-candidates.tsv), so stage defaults to general. Won/was unopposed in the 2026-06-30 Democratic primary (Jenny Willford 10,454; Colorado SOS 2026 primary results, https://www.coloradosos.gov/pubs/elections/Results/2026/2026PrimaryElectionStateResults.xlsx). General election was 2026-11-03; no certified result was available to cite on 2026-11-08, so outcome is pending."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Colorado_House_of_Representatives_District_34",
+        "excerpt": "Incumbent Jenny Willford (D) defeated Craig Sullivan (R) in the general election for Colorado House of Representatives District 34 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-11",
+        "term_end": null,
+        "service_source": null,
+        "contact_url": "https://leg.colorado.gov/legislators/jenny-willford"
+      },
+      "notes": "On WFP's 2026 candidate list (undated; full list including rows hidden behind View More saved in research_notes/national/wfp-2026-candidates.tsv), so stage defaults to general. Won/was unopposed in the 2026-06-30 Democratic primary (Jenny Willford 10,454; Colorado SOS 2026 primary results, https://www.coloradosos.gov/pubs/elections/Results/2026/2026PrimaryElectionStateResults.xlsx). General election was 2026-11-03; no certified result was available to cite on 2026-11-08, so outcome is pending. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Colo. Const. art. V, sec. 7; the 2027 session convenes 2027-01-11 per HJR26-1031 (see gaps). term_end is null because the convening date that ends this term is not set. contact_url is the incumbent's current official page."
     },
     {
       "person": "Michael Clarkson",
@@ -2068,10 +2113,19 @@
         "excerpt": "Yara Zokaie Colorado State House, District 52"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "On WFP's 2026 candidate list (undated; full list including rows hidden behind View More saved in research_notes/national/wfp-2026-candidates.tsv), so stage defaults to general. Won/was unopposed in the 2026-06-30 Democratic primary (Yara Zokaie 14,271; Colorado SOS 2026 primary results, https://www.coloradosos.gov/pubs/elections/Results/2026/2026PrimaryElectionStateResults.xlsx). General election was 2026-11-03; no certified result was available to cite on 2026-11-08, so outcome is pending."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Colorado_House_of_Representatives_District_52",
+        "excerpt": "Incumbent Yara Zokaie (D) defeated Steve Yurash (Colorado Center Party) in the general election for Colorado House of Representatives District 52 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-11",
+        "term_end": null,
+        "service_source": null,
+        "contact_url": "https://leg.colorado.gov/legislators/yara-zokaie"
+      },
+      "notes": "On WFP's 2026 candidate list (undated; full list including rows hidden behind View More saved in research_notes/national/wfp-2026-candidates.tsv), so stage defaults to general. Won/was unopposed in the 2026-06-30 Democratic primary (Yara Zokaie 14,271; Colorado SOS 2026 primary results, https://www.coloradosos.gov/pubs/elections/Results/2026/2026PrimaryElectionStateResults.xlsx). General election was 2026-11-03; no certified result was available to cite on 2026-11-08, so outcome is pending. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Colo. Const. art. V, sec. 7; the 2027 session convenes 2027-01-11 per HJR26-1031 (see gaps). term_end is null because the convening date that ends this term is not set. contact_url is the incumbent's current official page."
     },
     {
       "person": "Mallory Martin",
@@ -2110,10 +2164,19 @@
         "excerpt": "Elizabeth Velasco Colorado State House, District 57"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "On WFP's 2026 candidate list (undated; full list including rows hidden behind View More saved in research_notes/national/wfp-2026-candidates.tsv), so stage defaults to general. Won/was unopposed in the 2026-06-30 Democratic primary (Elizabeth Velasco 9,604; Colorado SOS 2026 primary results, https://www.coloradosos.gov/pubs/elections/Results/2026/2026PrimaryElectionStateResults.xlsx). General election was 2026-11-03; no certified result was available to cite on 2026-11-08, so outcome is pending."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Colorado_House_of_Representatives_District_57",
+        "excerpt": "Incumbent Elizabeth Velasco (D) defeated Russell Andrews (R) in the general election for Colorado House of Representatives District 57 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-11",
+        "term_end": null,
+        "service_source": null,
+        "contact_url": "https://leg.colorado.gov/legislators/elizabeth-velasco"
+      },
+      "notes": "On WFP's 2026 candidate list (undated; full list including rows hidden behind View More saved in research_notes/national/wfp-2026-candidates.tsv), so stage defaults to general. Won/was unopposed in the 2026-06-30 Democratic primary (Elizabeth Velasco 9,604; Colorado SOS 2026 primary results, https://www.coloradosos.gov/pubs/elections/Results/2026/2026PrimaryElectionStateResults.xlsx). General election was 2026-11-03; no certified result was available to cite on 2026-11-08, so outcome is pending. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Colo. Const. art. V, sec. 7; the 2027 session convenes 2027-01-11 per HJR26-1031 (see gaps). term_end is null because the convening date that ends this term is not set. contact_url is the incumbent's current official page."
     },
     {
       "person": "Iman Jodeh",
@@ -2434,10 +2497,19 @@
         "excerpt": "Junie Joseph in House District 10, Steph Vigil in House District 16,"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Post dated 2026-05-26, before the 2026-06-30 primary. Won/was unopposed in the 2026-06-30 Democratic primary (Junie Joseph 14,385; Colorado SOS 2026 primary results, https://www.coloradosos.gov/pubs/elections/Results/2026/2026PrimaryElectionStateResults.xlsx). General election was 2026-11-03; no certified result was available to cite on 2026-11-08, so outcome is pending."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Colorado_House_of_Representatives_District_10",
+        "excerpt": "Incumbent Junie Joseph (D) won election in the general election for Colorado House of Representatives District 10 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-11",
+        "term_end": null,
+        "service_source": null,
+        "contact_url": "https://leg.colorado.gov/legislators/junie-joseph"
+      },
+      "notes": "Post dated 2026-05-26, before the 2026-06-30 primary. Won/was unopposed in the 2026-06-30 Democratic primary (Junie Joseph 14,385; Colorado SOS 2026 primary results, https://www.coloradosos.gov/pubs/elections/Results/2026/2026PrimaryElectionStateResults.xlsx). General election was 2026-11-03; no certified result was available to cite on 2026-11-08, so outcome is pending. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Colo. Const. art. V, sec. 7; the 2027 session convenes 2027-01-11 per HJR26-1031 (see gaps). term_end is null because the convening date that ends this term is not set. contact_url is the incumbent's current official page."
     },
     {
       "person": "Steph Vigil",
@@ -2518,10 +2590,19 @@
         "excerpt": "Colorado State House District 52: Yara Zokaie (Endorsed)"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Voter guide dated 2026-10-08, after the 2026-06-30 primary. Won/was unopposed in the 2026-06-30 Democratic primary (Yara Zokaie 14,271; Colorado SOS 2026 primary results, https://www.coloradosos.gov/pubs/elections/Results/2026/2026PrimaryElectionStateResults.xlsx). General election was 2026-11-03; no certified result was available to cite on 2026-11-08, so outcome is pending."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Colorado_House_of_Representatives_District_52",
+        "excerpt": "Incumbent Yara Zokaie (D) defeated Steve Yurash (Colorado Center Party) in the general election for Colorado House of Representatives District 52 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-11",
+        "term_end": null,
+        "service_source": null,
+        "contact_url": "https://leg.colorado.gov/legislators/yara-zokaie"
+      },
+      "notes": "Voter guide dated 2026-10-08, after the 2026-06-30 primary. Won/was unopposed in the 2026-06-30 Democratic primary (Yara Zokaie 14,271; Colorado SOS 2026 primary results, https://www.coloradosos.gov/pubs/elections/Results/2026/2026PrimaryElectionStateResults.xlsx). General election was 2026-11-03; no certified result was available to cite on 2026-11-08, so outcome is pending. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Colo. Const. art. V, sec. 7; the 2027 session convenes 2027-01-11 per HJR26-1031 (see gaps). term_end is null because the convening date that ends this term is not set. contact_url is the incumbent's current official page."
     },
     {
       "person": "Javier Mabrey",
@@ -3478,10 +3559,19 @@
         "excerpt": "Lisa Feret State Representative, District 24 , CO 2026 Endorsement"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Announced 2026-08-04 (https://runforsomething.net/rfs-press/august_2026_endorsements/), after the 2026-06-30 primary. Won/was unopposed in the 2026-06-30 Democratic primary (Lisa Feret 14,250; Colorado SOS 2026 primary results, https://www.coloradosos.gov/pubs/elections/Results/2026/2026PrimaryElectionStateResults.xlsx). General election was 2026-11-03; no certified result was available to cite on 2026-11-08, so outcome is pending."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Colorado_House_of_Representatives_District_24",
+        "excerpt": "Incumbent Lisa Feret (D) defeated Kristopher Johnson (R) in the general election for Colorado House of Representatives District 24 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-11",
+        "term_end": null,
+        "service_source": null,
+        "contact_url": "https://leg.colorado.gov/legislators/lisa-feret"
+      },
+      "notes": "Announced 2026-08-04 (https://runforsomething.net/rfs-press/august_2026_endorsements/), after the 2026-06-30 primary. Won/was unopposed in the 2026-06-30 Democratic primary (Lisa Feret 14,250; Colorado SOS 2026 primary results, https://www.coloradosos.gov/pubs/elections/Results/2026/2026PrimaryElectionStateResults.xlsx). General election was 2026-11-03; no certified result was available to cite on 2026-11-08, so outcome is pending. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Colo. Const. art. V, sec. 7; the 2027 session convenes 2027-01-11 per HJR26-1031 (see gaps). term_end is null because the convening date that ends this term is not set. contact_url is the incumbent's current official page."
     }
   ],
   "coverage": [
@@ -3577,6 +3667,7 @@
     "2025 convening date (2025-01-08): the 2025 House and Senate journal PDFs would not download for me (HTTP 202, empty). The date comes from search-result text of those journals; the leg.colorado.gov 2025 session page shows a start of 2025-01-07 12:00. It affects term_start for 2024 winners and term_end for 2022 House winners. The 2023 (2023-01-09) and 2027 (2027-01-11) dates are from bill PDFs I read.",
     "Colorado fills legislative vacancies by vacancy committee, so no special elections exist in scope. No governor endorsement by any group was found; Denver DSA gave 'No Recommendation' for Phil Weiser.",
     "Sunrise Movement 2022-2026 endorsements could not be checked (site returns 403 to automated requests).",
-    "Status 'unknown' for Winter and Jodeh: the brief says mid-term leavers are not_serving, but no source gives the date or reason they left, and the verifier rejects not_serving without a term_end in the past."
+    "Status 'unknown' for Winter and Jodeh: the brief says mid-term leavers are not_serving, but no source gives the date or reason they left, and the verifier rejects not_serving without a term_end in the past.",
+    "2026-11-16: general results for 8 sitting officeholders with a 2026 endorsement were taken from Ballotpedia district pages (research_notes/national/results-2026-ballotpedia.tsv), because the official sources named above were still not citable. They are unofficial until certified. Other 2026 endorsees were not rechecked and keep their earlier outcome."
   ]
 }

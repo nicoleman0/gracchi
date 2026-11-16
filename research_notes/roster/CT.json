@@ -5059,10 +5059,22 @@
         "excerpt": "Ned Lamont Governor"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. Lamont won the 2026-08-11 Democratic primary. Democratic primary 2026-08-11 (https://electionhistory.ct.gov/contest/44058): Ned Lamont 126,213 (winner); Josh Elliott 59,851. 2026-11-03 general result is not yet in the official SOTS database."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_gubernatorial_election,_2026",
+        "excerpt": "Incumbent Ned Lamont (D / Working Families Party) won election in the general election for Governor of Connecticut on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": "2031-01-08",
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "Such officers shall hold their respective offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://portal.ct.gov/governor"
+      },
+      "notes": "Undated national list row; stage defaulted to general. Lamont won the 2026-08-11 Democratic primary. Democratic primary 2026-08-11 (https://electionhistory.ct.gov/contest/44058): Ned Lamont 126,213 (winner); Josh Elliott 59,851. 2026-11-03 general result is not yet in the official SOTS database. 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. IV, sec. 2: Wednesday following the first Monday of January, four-year term. contact_url is the incumbent's current official page."
     },
     {
       "person": "Francis Lombard",
@@ -5122,10 +5134,22 @@
         "excerpt": "Geoffrey Luxenberg State House, District 12"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_12",
+        "excerpt": "Incumbent Geoff Luxenberg (D / Working Families Party) defeated Deena Steinberg (Yankee National Party) in the general election for Connecticut House of Representatives District 12 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/luxenberg"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Eleni Kavros DeGraw",
@@ -5143,10 +5167,22 @@
         "excerpt": "Eleni Kavros DeGraw State House, District 17"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_17",
+        "excerpt": "Incumbent Eleni Kavros DeGraw (D / Working Families Party / Independent Party of Connecticut) defeated Andrew Ziemba (R) in the general election for Connecticut House of Representatives District 17 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/KavrosDegraw"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Kate Farrar",
@@ -5164,10 +5200,22 @@
         "excerpt": "Kate Farrar State House, District 20"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_20",
+        "excerpt": "Incumbent Kate Farrar (D / Working Families Party) won election in the general election for Connecticut House of Representatives District 20 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/Farrar"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Mike Demicco",
@@ -5185,10 +5233,22 @@
         "excerpt": "Mike Demicco State House, District 21"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_21",
+        "excerpt": "Incumbent Mike Demicco (D / Working Families Party / Independent Party of Connecticut) defeated Gary Palumbo (R) in the general election for Connecticut House of Representatives District 21 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/Demicco"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Rebecca Martinez",
@@ -5206,10 +5266,22 @@
         "excerpt": "Rebecca Martinez State House, District 22"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_22",
+        "excerpt": "Incumbent Rebecca Martinez (D / Working Families Party) defeated Richard Mette (R / Independent Party of Connecticut) in the general election for Connecticut House of Representatives District 22 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/martinez"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Jane Wisialowski",
@@ -5248,10 +5320,22 @@
         "excerpt": "Emmanuel \"Manny\" Sanchez State House, District 24"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_24",
+        "excerpt": "Incumbent Manny Sanchez (D / Working Families Party) defeated Tina Santana (R) in the general election for Connecticut House of Representatives District 24 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/SanchezM"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "David DeFronzo",
@@ -5269,10 +5353,22 @@
         "excerpt": "David DeFronzo State House, District 26"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_26",
+        "excerpt": "Incumbent David DeFronzo (D / Working Families Party) defeated Sal Simsek (R) in the general election for Connecticut House of Representatives District 26 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/DeFronzo"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Gary Turco",
@@ -5290,10 +5386,22 @@
         "excerpt": "Gary Turco State House, District 27"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_27",
+        "excerpt": "Incumbent Gary Turco (D / Working Families Party) won election in the general election for Connecticut House of Representatives District 27 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/turco"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Amy Morrin Bello",
@@ -5311,10 +5419,22 @@
         "excerpt": "Amy Morrin Bello State House, District 28"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_28",
+        "excerpt": "Incumbent Amy Morrin Bello (D / Working Families Party) defeated William Davidson (R) in the general election for Connecticut House of Representatives District 28 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/morrinbello"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Moise ‘Moses\" Carelus",
@@ -5374,10 +5494,22 @@
         "excerpt": "Nick Menapace State House, District 37"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_37",
+        "excerpt": "Incumbent Nick Menapace (D / Working Families Party) defeated Anne Santoro (R / Independent Party of Connecticut) in the general election for Connecticut House of Representatives District 37 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/Menapace"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Nick Gauthier",
@@ -5395,10 +5527,22 @@
         "excerpt": "Nick Gauthier State House, District 38"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_38",
+        "excerpt": "Incumbent Nick Gauthier (D / Working Families Party) defeated John Foley (R / Independent Party of Connecticut) in the general election for Connecticut House of Representatives District 38 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/Gauthier"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Dan Gaiewski",
@@ -5437,10 +5581,22 @@
         "excerpt": "Aundre Bumgardner State House, District 41"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_41",
+        "excerpt": "Incumbent Aundré Bumgardner (D / Working Families Party) defeated Thaler Hefel (R) in the general election for Connecticut House of Representatives District 41 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/Bumgardner"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Samantha Derenthal",
@@ -5479,10 +5635,22 @@
         "excerpt": "Derell Q Wilson State House, District 46"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_46",
+        "excerpt": "Incumbent Derell Wilson (D / Working Families Party) defeated Marcia Wilbur (R) in the general election for Connecticut House of Representatives District 46 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/Wilson"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Bob Fernandez",
@@ -5521,10 +5689,22 @@
         "excerpt": "Susan Johnson State House, District 49"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_49",
+        "excerpt": "Incumbent Susan Johnson (D / Working Families Party) defeated Brian Saucier (R) in the general election for Connecticut House of Representatives District 49 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/Johnson"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Michelle Doucette Cunningham",
@@ -5563,10 +5743,22 @@
         "excerpt": "Gregg Haddad State House, District 54"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_54",
+        "excerpt": "Incumbent Gregory Haddad (D / Working Families Party) won election in the general election for Connecticut House of Representatives District 54 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/haddad"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Ellen Paul",
@@ -5605,10 +5797,22 @@
         "excerpt": "Kevin Brown State House, District 56"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_56",
+        "excerpt": "Incumbent Kevin Brown (D / Working Families Party / Independent Party of Connecticut) defeated Andy Tedford (R) in the general election for Connecticut House of Representatives District 56 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/BrownK"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Jane Garibay",
@@ -5626,10 +5830,22 @@
         "excerpt": "Jane Garibay State House, District 60"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_60",
+        "excerpt": "Incumbent Jane Garibay (D / Working Families Party / Independent Party of Connecticut) defeated Chantelle Ankerman (R) in the general election for Connecticut House of Representatives District 60 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/garibay"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Kim Becker",
@@ -5668,10 +5884,22 @@
         "excerpt": "Maria Horn State House, District 64"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_64",
+        "excerpt": "Incumbent Maria Horn (D / Working Families Party / Independent Party of Connecticut) defeated Katelynn Borraiz (R) in the general election for Connecticut House of Representatives District 64 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/horn"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Edward M Corey",
@@ -5731,10 +5959,22 @@
         "excerpt": "Ronald Napoli Jr. State House, District 73"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_73",
+        "excerpt": "Incumbent Ronald Napoli Jr. (D / Working Families Party / Independent Party of Connecticut) defeated Terence Lott Sr. (R) in the general election for Connecticut House of Representatives District 73 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/napoli"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "DeWayne K Wynn Jr",
@@ -5794,10 +6034,22 @@
         "excerpt": "Mary B Fortier State House, District 79"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_79",
+        "excerpt": "Incumbent Mary Fortier (D / Working Families Party / Independent Party of Connecticut) defeated Cheryl Thibeault (R) in the general election for Connecticut House of Representatives District 79 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/Fortier"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Chad Cardillo",
@@ -5857,10 +6109,22 @@
         "excerpt": "Joshua Elliott State House, District 88"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_88",
+        "excerpt": "Incumbent Joshua Elliott (D / Working Families Party) defeated Hudson Molinari (R) in the general election for Connecticut House of Representatives District 88 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/Elliott"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Laurie Sweet",
@@ -5878,10 +6142,22 @@
         "excerpt": "Laurie Sweet State House, District 91"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_91",
+        "excerpt": "Incumbent Laurie Sweet (D / Working Families Party) won election in the general election for Connecticut House of Representatives District 91 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/Sweet"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Steven Winter",
@@ -5920,10 +6196,22 @@
         "excerpt": "Moira Rader State House, District 98"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_98",
+        "excerpt": "Incumbent Moira Rader (D / Working Families Party) defeated Carlyle Ciccone (R) in the general election for Connecticut House of Representatives District 98 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/Rader"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Karen A Martin",
@@ -5962,10 +6250,22 @@
         "excerpt": "Robin Comey State House, District 102"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_102",
+        "excerpt": "Incumbent Robin Comey (D / Working Families Party) defeated Paul Crisci (R / Independent Party of Connecticut) in the general election for Connecticut House of Representatives District 102 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://housedems.ct.gov/comey"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Kara Rochelle",
@@ -5983,10 +6283,22 @@
         "excerpt": "Kara Rochelle State House, District 104"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_104",
+        "excerpt": "Incumbent Kara Rochelle (D / Working Families Party) defeated Daniel Sexton (R) in the general election for Connecticut House of Representatives District 104 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/rochelle"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Michelle Embree Ku",
@@ -6046,10 +6358,22 @@
         "excerpt": "Farley A. Santos State House, District 109"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_109",
+        "excerpt": "Incumbent Farley Santos (D / Working Families Party / Independent Party of Connecticut) defeated Ed Vachovetz (R) in the general election for Connecticut House of Representatives District 109 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/Santos"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Bob Godfrey",
@@ -6067,10 +6391,22 @@
         "excerpt": "Bob Godfrey State House, District 110"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_110",
+        "excerpt": "Incumbent Bob Godfrey (D / Working Families Party) defeated Anthony Rongetti (R / Independent Party of Connecticut) in the general election for Connecticut House of Representatives District 110 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/Godfrey"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "MJ Shannon",
@@ -6088,10 +6424,22 @@
         "excerpt": "MJ Shannon State House, District 117"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_117",
+        "excerpt": "Incumbent MJ Shannon (D / Working Families Party / Independent Party of Connecticut) defeated Raymond Collins III (R) in the general election for Connecticut House of Representatives District 117 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/Shannon"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Toni Lombardi",
@@ -6130,10 +6478,22 @@
         "excerpt": "Kaitlyn Shake State House, District 120"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_120",
+        "excerpt": "Incumbent Kaitlyn Shake (D / Working Families Party) defeated Troy Gargiulo (R / Independent Party of Connecticut) in the general election for Connecticut House of Representatives District 120 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/Shake"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Cristin McCarthy Vahey",
@@ -6151,10 +6511,22 @@
         "excerpt": "Cristin McCarthy Vahey State House, District 133"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_133",
+        "excerpt": "Incumbent Cristin Vahey (D / Working Families Party) defeated Lisa Miro (R / Independent Party of Connecticut) in the general election for Connecticut House of Representatives District 133 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/McCarthyVahey"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Sarah Keitt",
@@ -6172,10 +6544,22 @@
         "excerpt": "Sarah Keitt State House, District 134"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_134",
+        "excerpt": "Incumbent Sarah Keitt (D / Working Families Party) defeated Ken Astarita (R / Independent Party of Connecticut) in the general election for Connecticut House of Representatives District 134 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/keitt"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Anne M Hughes",
@@ -6193,10 +6577,22 @@
         "excerpt": "Anne M Hughes State House, District 135"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_135",
+        "excerpt": "Incumbent Anne Hughes (D / Working Families Party) defeated Darrell Harris (R / Independent Party of Connecticut) in the general election for Connecticut House of Representatives District 135 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/hughes"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Kadeem Roberts",
@@ -6214,10 +6610,22 @@
         "excerpt": "Kadeem Roberts State House, District 137"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_137",
+        "excerpt": "Incumbent Kadeem Roberts (D / Working Families Party) defeated Tricia Ciccone (R) in the general election for Connecticut House of Representatives District 137 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/Roberts"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Kenneth Gucker",
@@ -6235,10 +6643,22 @@
         "excerpt": "Ken Gucker State House, District 138"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_138",
+        "excerpt": "Incumbent Kenneth Gucker (D / Working Families Party / Independent Party of Connecticut) defeated Irving Fox (R) in the general election for Connecticut House of Representatives District 138 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/gucker"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Larry Pemberton Jr",
@@ -6277,10 +6697,22 @@
         "excerpt": "Dominique Johnson State House, District 143"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_143",
+        "excerpt": "Incumbent Dominique Johnson (D / Working Families Party / Independent Party of Connecticut) defeated Greg Helms (R) in the general election for Connecticut House of Representatives District 143 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/JohnsonD"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Corey Paris",
@@ -6298,10 +6730,22 @@
         "excerpt": "Corey Paris State House, District 145"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_House_of_Representatives_District_145",
+        "excerpt": "Incumbent Corey Paris (D / Working Families Party) won election in the general election for Connecticut House of Representatives District 145 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/paris"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Maryam Khan",
@@ -6340,10 +6784,22 @@
         "excerpt": "Saud Anwar State Senate, District 3"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_State_Senate_District_3",
+        "excerpt": "Incumbent Saud Anwar (D / Working Families Party) defeated Eliott Hughes (R) in the general election for Connecticut State Senate District 3 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.senatedems.ct.gov/anwar"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "MD Rahman",
@@ -6361,10 +6817,22 @@
         "excerpt": "MD Rahman State Senate, District 4"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_State_Senate_District_4",
+        "excerpt": "Incumbent MD Rahman (D / Working Families Party) defeated Jenn Jennings (R) in the general election for Connecticut State Senate District 4 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.senatedems.ct.gov/Rahman"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Rick Lopes",
@@ -6382,10 +6850,22 @@
         "excerpt": "Rick Lopes State Senate, District 6"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_State_Senate_District_6",
+        "excerpt": "Incumbent Rick Lopes (D / Working Families Party) defeated Tremell Collins (R) in the general election for Connecticut State Senate District 6 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.senatedems.ct.gov/lopes"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "David Kiner",
@@ -6424,10 +6904,22 @@
         "excerpt": "Matt Lesser (SD-9)"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Announced 2026-06-16 for the 2026-08-11 Democratic primary. Also a row on the national list (https://workingfamilies.org/candidates/): Matt Lesser State Senate, District 9. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_State_Senate_District_9",
+        "excerpt": "Incumbent Matthew L. Lesser (D / Working Families Party) defeated Grant W. Polomsky (R) and Gwen Samuel (Independent Party of Connecticut) in the general election for Connecticut State Senate District 9 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.senatedems.ct.gov/lesser"
+      },
+      "notes": "Announced 2026-06-16 for the 2026-08-11 Democratic primary. Also a row on the national list (https://workingfamilies.org/candidates/): Matt Lesser State Senate, District 9. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Gary Winfield",
@@ -6445,10 +6937,22 @@
         "excerpt": "Gary Winfield State Senate, District 10"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_State_Senate_District_10",
+        "excerpt": "Incumbent Gary Winfield (D / Working Families Party) won election in the general election for Connecticut State Senate District 10 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.senatedems.ct.gov/senator/gary-winfield"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Christine Cohen",
@@ -6466,10 +6970,22 @@
         "excerpt": "Christine Cohen State Senate, District 12"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_State_Senate_District_12",
+        "excerpt": "Incumbent Christine Cohen (D / Working Families Party / Independent Party of Connecticut) defeated Lisa Deane (R) in the general election for Connecticut State Senate District 12 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.senatedems.ct.gov/cohen"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Jack Fazzino",
@@ -6487,10 +7003,22 @@
         "excerpt": "Jack Fazzino (SD-13)"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Announced 2026-06-16 for the 2026-08-11 Democratic primary. Also a row on the national list (https://workingfamilies.org/candidates/): Jack Fazzino State Senate, District 13. Democratic Primary 2026-08-11 (https://electionhistory.ct.gov/contest/44063): Jack Fazzino 3,157 (winner); Jim Jinks 1,841. 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_State_Senate_District_13",
+        "excerpt": "Jonathan Fazzino (D / Working Families Party) defeated Lamar Terrell (Independent Party of Connecticut) in the general election for Connecticut State Senate District 13 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.housedems.ct.gov/Fazzino"
+      },
+      "notes": "Announced 2026-06-16 for the 2026-08-11 Democratic primary. Also a row on the national list (https://workingfamilies.org/candidates/): Jack Fazzino State Senate, District 13. Democratic Primary 2026-08-11 (https://electionhistory.ct.gov/contest/44063): Jack Fazzino 3,157 (winner); Jim Jinks 1,841. 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the page for the seat held until this term starts; replace it once seated in the new chamber."
     },
     {
       "person": "Jorge Cabrera",
@@ -6508,10 +7036,22 @@
         "excerpt": "Jorge Cabrera State Senate, District 17"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_State_Senate_District_17",
+        "excerpt": "Incumbent Jorge Cabrera (D / Working Families Party) defeated John-Paul Dorais (R / Independent Party of Connecticut) in the general election for Connecticut State Senate District 17 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.senatedems.ct.gov/cabrera"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Catherine A Osten",
@@ -6529,10 +7069,22 @@
         "excerpt": "Catherine A Osten State Senate, District 19"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. Republican Primary 2026-08-11 (https://electionhistory.ct.gov/contest/44056): Jason Guidone 1,162 (winner); Mike France 905. 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_State_Senate_District_19",
+        "excerpt": "Incumbent Catherine Osten (D / Working Families Party / Independent Party of Connecticut) defeated Jason Guidone (R) in the general election for Connecticut State Senate District 19 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.senatedems.ct.gov/Osten"
+      },
+      "notes": "Undated national list row; stage defaulted to general. Republican Primary 2026-08-11 (https://electionhistory.ct.gov/contest/44056): Jason Guidone 1,162 (winner); Mike France 905. 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Martha Marx",
@@ -6550,10 +7102,22 @@
         "excerpt": "Martha Marx State Senate, District 20"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_State_Senate_District_20",
+        "excerpt": "Incumbent Martha Marx (D / Working Families Party) defeated Lee Elci (R / Independent Party of Connecticut) in the general election for Connecticut State Senate District 20 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.senatedems.ct.gov/marx"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Julie Kushner",
@@ -6571,10 +7135,22 @@
         "excerpt": "Julie Kushner State Senate, District 24"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_State_Senate_District_24",
+        "excerpt": "Incumbent Julie Kushner (D / Working Families Party) defeated Melissa Lindsey (R / Independent Party of Connecticut) in the general election for Connecticut State Senate District 24 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.senatedems.ct.gov/kushner"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Mae Flexer",
@@ -6592,10 +7168,22 @@
         "excerpt": "Mae Flexer State Senate, District 29"
       },
       "withdrawn": false,
-      "outcome": "pending",
-      "result_source": null,
-      "current": null,
-      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov)."
+      "outcome": "won",
+      "result_source": {
+        "url": "https://ballotpedia.org/Connecticut_State_Senate_District_29",
+        "excerpt": "Incumbent Mae Flexer (D / Working Families Party) defeated Chris Reddy (R) in the general election for Connecticut State Senate District 29 on November 3, 2026."
+      },
+      "current": {
+        "status": "incoming",
+        "term_start": "2027-01-06",
+        "term_end": null,
+        "service_source": {
+          "url": "https://portal.ct.gov/sots/register-manual/section-i/constitution-of-the-state-of-connecticut?archived=true",
+          "excerpt": "The members of the general assembly shall hold their offices from the Wednesday following the first Monday of the January next succeeding their election"
+        },
+        "contact_url": "https://www.senatedems.ct.gov/Flexer"
+      },
+      "notes": "Undated national list row; stage defaulted to general. No 2026 primary contest for this seat in the SOTS database; 2026-11-03 general results are not yet in the official SOTS database (electionhistory.ct.gov). 2026 general (2026-11-03) per Ballotpedia, looked up 2026-11-16, unofficial until certified. Term rule: Conn. Const. art. III, sec. 10. term_end is null: 2025 SJ 14 proposed changing legislative term lengths and its 2026-11-03 outcome is unconfirmed (see gaps). contact_url is the incumbent's current official page."
     },
     {
       "person": "Brandi Mandato",
@@ -7195,6 +7783,7 @@
     "PCCC: boldprogressives.org/2022-champions/ lists an unnamed Connecticut state house candidate ('An Amazing Candidate') and no 2024 or 2026 CT state pages were found. A champions list is not an endorsement. A third-party aggregator (bluevoterguide.org) lists Matt Lesser SD9 and Nick Gauthier HD38 as PCCC endorsements with no date; not usable as the issuer's own page, so no entry.",
     "Our Revolution: only one CT state-office endorsement found (Angie Parkinson HD10, 2026). Our Revolution local chapters in Connecticut were not enumerated.",
     "contact_url for 2024 winners is the first non-bill-tracker link in the Open States 'links' column (caucus member page, https://www.housedems.ct.gov/..., https://www.senatedems.ct.gov/..., or https://www.cthousegop.com/...), because the CGA member pages are not in that column.",
-    "Name forms: the WFP June 2024 page spells 'Absul Osmanu'; the entry uses Abdul Osmanu (official results and the RFS card)."
+    "Name forms: the WFP June 2024 page spells 'Absul Osmanu'; the entry uses Abdul Osmanu (official results and the RFS card).",
+    "2026-11-16: general results for 49 sitting officeholders with a 2026 endorsement were taken from Ballotpedia district pages (research_notes/national/results-2026-ballotpedia.tsv), because the official sources named above were still not citable. They are unofficial until certified. Other 2026 endorsees were not rechecked and keep their earlier outcome."
   ]
 }
