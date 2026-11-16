@@ -21,6 +21,14 @@ export const coverageComplete = (c: Coverage) => ["complete_with_entries", "comp
 const stateCodes = STATES.filter((s) => s.code !== "DC").map((s) => s.code);
 const date = (s: string) => s.slice(0, 10);
 
+// Stored status is the editor's call at review time; dates decide what is true today.
+export function termStatus(term: Pick<Term, "status" | "starts_on" | "ends_on">, today: Date): Term["status"] {
+  if (term.status !== "serving" && term.status !== "incoming") return term.status;
+  const now = today.toISOString().slice(0, 10);
+  if (term.ends_on && date(term.ends_on) <= now) return "ended";
+  return date(term.starts_on) <= now ? "serving" : "incoming";
+}
+
 export function readStatePublication(input: unknown, today = new Date()): { version: string | null; reviewedAt: string | null; members: StateMember[]; coverage: Coverage[] } {
   if (input === null) return { version: null, reviewedAt: null, members: [], coverage: [] };
   const envelope = input as Envelope;
@@ -59,10 +67,11 @@ export function readStatePublication(input: unknown, today = new Date()): { vers
   }
   const now = today.toISOString().slice(0, 10);
   // Uncalled races stay off the site until called (docs/plans/state-offices.md).
-  const members = s.terms.filter((term) => term.status === "serving" || term.status === "incoming").map((term) => {
+  const members = s.terms.map((stored) => ({ stored, status: termStatus(stored, today) })).filter(({ status }) => status === "serving" || status === "incoming").map(({ stored, status }) => {
+    const term = { ...stored, status };
     const person = lookup(people, term.person_id), seat = lookup(seats, term.seat_id), election = lookup(elections, term.election_id);
     const result = lookup(sources, term.result_source_id);
-    if (!stateCodes.includes(seat.state) || !["general", "special"].includes(election.stage) || election.seat_id !== seat.id || (term.status === "serving" && (date(term.starts_on) > now || (term.ends_on && date(term.ends_on) <= now) || !term.service_source_id)) || (term.status === "incoming" && date(term.starts_on) <= now)) throw new Error(`state publication: invalid term ${term.id}`);
+    if (!stateCodes.includes(seat.state) || !["general", "special"].includes(election.stage) || election.seat_id !== seat.id || (stored.status === "serving" && (date(stored.starts_on) > now || !stored.service_source_id))) throw new Error(`state publication: invalid term ${term.id}`);
     const endorsements = s.endorsements.filter((e) => e.person_id === person.id && !e.withdrawn && decisions.get(e.id)?.outcome === "included" && decisions.get(e.id)?.term_id === term.id && (() => { const endorsed = lookup(elections, e.election_id); return endorsed.seat_id === seat.id && endorsed.year === election.year && (endorsed.id === election.id || (endorsed.stage === "primary" && endorsed.cycle_election_id === election.id)); })());
     if (!endorsements.length || (!term.contact_url && !term.campaign_url)) throw new Error(`state publication: missing evidence for ${term.id}`);
     return { id: person.id, name: person.name, state: seat.state, seat, term, election, ...(term.service_source_id ? { service: lookup(sources, term.service_source_id) } : {}), result, ...(term.contact_url ? { contactSource: lookup(sources, term.contact_source_id) } : {}), ...(term.campaign_url ? { campaignSource: lookup(sources, term.campaign_source_id) } : {}), endorsers: endorsements.map((e) => ({ issuer: lookup(issuers, e.issuer_id), source: lookup(sources, e.source_id), election: lookup(elections, e.election_id) })), ...(person.portrait_url && person.portrait_credit ? { portrait: { url: person.portrait_url, credit: person.portrait_credit, source: lookup(sources, person.portrait_source_id) } } : {}) };

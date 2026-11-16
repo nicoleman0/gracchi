@@ -2,7 +2,8 @@ import { test } from "node:test";
 import assert from "node:assert/strict";
 import { createHash } from "node:crypto";
 import { canonical } from "../lib/canonical";
-import { readStatePublication, stateSeatLabel } from "../lib/state-offices";
+import realPublication from "../data/state-publication.json";
+import { readStatePublication, stateSeatLabel, termStatus } from "../lib/state-offices";
 import { STATES } from "../lib/states";
 
 function fixture() {
@@ -40,12 +41,73 @@ test("only a reviewed, unmodified snapshot with every coverage row loads", () =>
   assert.throws(() => readStatePublication(invalid), /hash mismatch/);
 });
 
-test("missing evidence and stale or expired terms fail closed", () => {
+test("missing evidence and contradictory terms fail closed", () => {
   const missing = fixture(); missing.endorsements[0].withdrawn = true;
   assert.throws(() => readStatePublication(envelope(missing), new Date("2026-11-08")), /missing evidence/);
-  assert.throws(() => readStatePublication(envelope(fixture()), new Date("2031-01-01")), /invalid term/);
-  const future = fixture(); future.terms[0].status = "incoming";
+  const future = fixture(); future.terms[0].starts_on = "2027-01-01";
   assert.throws(() => readStatePublication(envelope(future), new Date("2026-11-08")), /invalid term/);
+  const unsourced = fixture(); unsourced.terms[0].service_source_id = null as unknown as string;
+  assert.throws(() => readStatePublication(envelope(unsourced), new Date("2026-11-08")), /invalid term/);
+});
+
+test("terms age with the calendar instead of failing the read", () => {
+  const data = fixture(); data.terms[0].ends_on = "2026-12-01";
+  assert.equal(readStatePublication(envelope(data), new Date("2026-11-30T12:00:00Z")).members[0].term.status, "serving");
+  assert.throws(() => readStatePublication(envelope(data), new Date("2026-12-01T12:00:00Z")), /no serving members/);
+  const incoming = fixture();
+  incoming.people.push({ ...incoming.people[0], id: "next" });
+  incoming.endorsements.push({ ...incoming.endorsements[0], id: "e2", person_id: "next" });
+  incoming.reconciliations.push({ ...incoming.reconciliations[0], id: "r2", endorsement_id: "e2", term_id: "t2" });
+  incoming.terms.push({ ...incoming.terms[0], id: "t2", person_id: "next", status: "incoming", starts_on: "2027-01-01", ends_on: null as unknown as string, service_source_id: null as unknown as string });
+  const before = readStatePublication(envelope(incoming), new Date("2026-12-31T12:00:00Z")).members;
+  assert.deepEqual(before.map((m) => m.term.status), ["serving", "incoming"]);
+  const after = readStatePublication(envelope(incoming), new Date("2027-01-01T12:00:00Z")).members;
+  assert.deepEqual(after.map((m) => [m.id, m.term.status, m.service === undefined]), [["synthetic", "serving", false], ["next", "serving", true]]);
+});
+
+test("termStatus derives the effective status from stored status and dates", () => {
+  const today = new Date("2026-12-01T12:00:00Z");
+  const term = (status: "serving" | "incoming" | "ended" | "unresolved", starts_on: string, ends_on: string | null) => ({ status, starts_on, ends_on });
+  assert.equal(termStatus(term("serving", "2026-01-01", "2026-12-01"), today), "ended");
+  assert.equal(termStatus(term("incoming", "2026-01-01", "2026-11-30"), today), "ended");
+  assert.equal(termStatus(term("serving", "2026-01-01", "2026-12-02"), today), "serving");
+  assert.equal(termStatus(term("serving", "2026-01-01", null), today), "serving");
+  assert.equal(termStatus(term("incoming", "2026-12-01", null), today), "serving");
+  assert.equal(termStatus(term("incoming", "2026-12-02", null), today), "incoming");
+  assert.equal(termStatus(term("ended", "2026-01-01", null), today), "ended");
+  assert.equal(termStatus(term("unresolved", "2026-01-01", null), today), "unresolved");
+});
+
+const realCounts = (day: string) => {
+  const counts = { serving: 0, incoming: 0 };
+  for (const m of readStatePublication(realPublication, new Date(`${day}T12:00:00Z`)).members) counts[m.term.status as "serving" | "incoming"]++;
+  return counts;
+};
+
+test("the committed publication reads on every date around term changes", () => {
+  for (const day of ["2026-11-16", "2026-11-29", "2026-11-30", "2026-12-01", "2027-01-01", "2027-01-11", "2027-01-12"]) {
+    assert.doesNotThrow(() => readStatePublication(realPublication, new Date(`${day}T12:00:00Z`)), day);
+  }
+});
+
+test("the committed publication keeps its 2026-11-16 listing", () => {
+  assert.deepEqual(realCounts("2026-11-16"), { serving: 227, incoming: 144 });
+});
+
+test("terms ending 2026-11-30 drop out and terms starting 2026-12-01 begin serving", () => {
+  const ids = (day: string) => new Set(readStatePublication(realPublication, new Date(`${day}T12:00:00Z`)).members.map((m) => m.term.id));
+  const terms = realPublication.snapshot.terms;
+  const ending = terms.filter((t) => t.ends_on?.startsWith("2026-11-30")).map((t) => t.id);
+  const starting = terms.filter((t) => t.starts_on.startsWith("2026-12-01")).map((t) => t.id);
+  assert.equal(ending.length, 14);
+  assert.equal(starting.length, 12);
+  assert.ok(ending.every((id) => ids("2026-11-29").has(id) && !ids("2026-11-30").has(id)));
+  const dec = readStatePublication(realPublication, new Date("2026-12-01T12:00:00Z")).members;
+  assert.ok(starting.every((id) => dec.find((m) => m.term.id === id)?.term.status === "serving"));
+});
+
+test("after the last start date no member is still incoming", () => {
+  assert.equal(realCounts("2027-01-12").incoming, 0);
 });
 
 test("a seat cannot list more incoming winners than it holds", () => {
